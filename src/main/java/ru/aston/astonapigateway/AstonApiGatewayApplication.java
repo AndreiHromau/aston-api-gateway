@@ -9,5 +9,4 @@ public class AstonApiGatewayApplication {
     public static void main(String[] args) {
         SpringApplication.run(AstonApiGatewayApplication.class, args);
     }
-
 }
